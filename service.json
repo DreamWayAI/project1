@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dream-post-478712",
+  "private_key_id": "4d251175b1a2c272157e4465f910f71aeb0f09ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYy/dYQzyFxiNG\nDKJBLzy9z7OOzCdtO+AMzOuCRN6w2WOgE4hch6nIUzf4FNJTHM1wdevdl8JeZUep\nh3FgfAT6DjBpvsYkWjmlV/fyK1B9mun1KIty61n3W1dw8T0m0Rc+Z574Yqd9J6CL\nsRy41pNeZtDu91JEIv7WrKVI3jpnHn/ab73N2lfPeOvELYAWsKwzYWcl82SeL6oz\nRpqWLsZf/VBtGRpaRXMDUpJViUacR/YZHnrTxlfDROBxPohF3wBYVlL0usEUfcCS\nv/o3WlOfX+q1eo22MmsLdM2infTzQp6hX9nXkeYBFsQPml+mtP9mYomw1OU49jvV\nSgrzKElZAgMBAAECggEAJoYadT7yhfnoT9OEnzG1O1ggOesgL6rOePu7jyslCGqu\n8x+pnEa6GF9e96XsR3c2FtosX0DRiTI46LXU8JIkQRWNwEOQun6jFRyCT6T7FMgX\nn6+axR0woCx/9eJk3CIQnbPLgW2CNAxnLoE3sCStoDoFCJMDw1kdbmu1+pLJH9FN\ncrWcHTgOlYu6+vZTn5Rp9n0bRxQx4Ug35ZATCWIKwku8xQYPjnLVAEKxlpbTRXoY\nsfONmOu3ZI+S8R5ldruqvv10o8x2Zcd37zLSroKNrW01O5Su+BaVdJzSm1PNQ9YY\n8x+occw5MhrUUML1WDtSuejo/eW4ELQa1ZVFb2GAlwKBgQDOMo7vQ4LTIkDwC222\nNxifE5/5ZkZdnQ6vtX7WE6/puH4nHPVqPgLZvm+gwLnrst2igI8wZmEtBOxW4nDR\nNtCdq4XPAONGIj3mY2DA1A1XoXmSxYTidPcAovv6SIBMdh6f3M4EbaGMYjI46LCp\nkP/1yfGtyuD/m66taKBVRDdP3wKBgQC9s5MUqi1xLU+GTeluwpEr8vTMtfJYFIBb\n4GLz23agCkPkPaaqTOMNuqtvLen7blMnaqpVSdNxH9QwBy365qnnxhKnRdZYohMk\nyBtH9jPYCleuQqXFNZKeKOJQiqRAvreb3z9BI0+f+jlek7V5hPXed4y5jZWrJwSm\nHEh9hMEtxwKBgQCm3nmYHg2IqkbdPJJ8DRiK3EnxfphheBIDlqDfxKzvO1Q0eRYO\n9cI+zwPtlyqfGXCN6vZ2V9Q6p6pQIg7k8TRg9Qdj37cN8fYgNbp+Mt3dVhtZ8Sk6\nTyf5xuyevv+9YTYlb372THaZcnpsXbtibqsGEXjZib8OfMIfKfXfK0aMBwKBgGDl\nT5Q3lHyBu2QLedeUVFiRgc7qhL3Owv2q8IBEsiPu+lyjzPShzzwdBCIG3sQJxzmT\n9ysXSYQ30Mczc537of98Id0FBAZDyul3uM+aB0MrjTu6WTgRNDHLCkY/esSDZf+d\nGY8o/SvmwNT5N7G5Y2jdwaiplDBW/r3mJnTOkWnTAoGBAL8ky2usNAsBKuIvBdcW\nHHhUmg3sWO1J8Ha8n5K4Pwy7zxn4sIWKsO0J1/Ll2X5bvqJdNTKHG00C+SRGmUOJ\nrK+JShVpclZuXIlzA439Bwz/11u73uWAXtYKN+n7WCxnHsQ5w1NvcfUoo4UehdjM\n1q+VkAM83bu7GvX44pkoA6/T\n-----END PRIVATE KEY-----\n",
+  "client_email": "dreamwayai@dream-post-478712.iam.gserviceaccount.com",
+  "client_id": "103954879045354720332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dreamwayai%40dream-post-478712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
